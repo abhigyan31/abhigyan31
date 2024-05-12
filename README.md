@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhigyan31&label=Profile%20views&color=0e75b6&style=flat" alt="abhigyan31" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abhigyan-nath-57062621b/](https://www.linkedin.com/in/abhigyan-nath-57062621b/)
-
 - 📫 How to reach me **https://www.linkedin.com/in/abhigyan-nath-57062621b/**
 
 <h3 align="left">Connect with me:</h3>
