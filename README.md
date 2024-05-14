@@ -1,3 +1,8 @@
+<ul dir="auto">
+<li> ✅ There is no secret to success.</li>
+<li> 🖥️ See my portfolio at <a href="https://abhigyan31.netlify.app/" rel="port">https://abhigyan31.netlify.app/</a></li>
+<li> 📧 You can contact me at <a href="mailto:abhigyannath8@gmail.com">abhigyannath8@gmail.com</a></li>
+</ul>
 ![logo](https://github.com/abhigyan31/abhigyan31/blob/main/banner.JPG)
 <h1 align="center">Hi 👋, I'm Abhigyan Nath</h1>
 <h3 align="center">A passionate Web Developer and a cybersecurity aspirant.</h3>
