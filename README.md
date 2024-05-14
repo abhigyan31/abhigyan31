@@ -1,8 +1,3 @@
-<ul dir="auto">
-<li> ✅ There is no secret to success.</li>
-<li> 🖥️ See my portfolio at <a href="https://abhigyan31.netlify.app/" rel="port">https://abhigyan31.netlify.app/</a></li>
-<li> 📧 You can contact me at <a href="mailto:abhigyannath8@gmail.com">abhigyannath8@gmail.com</a></li>
-</ul>
 ![logo](https://github.com/abhigyan31/abhigyan31/blob/main/banner.JPG)
 <h1 align="center">Hi 👋, I'm Abhigyan Nath</h1>
 <h3 align="center">A passionate Web Developer and a cybersecurity aspirant.</h3>
@@ -10,7 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhigyan31&label=Profile%20views&color=0e75b6&style=flat" alt="abhigyan31" /> </p>
 
-- 📫 How to reach me **https://www.linkedin.com/in/abhigyan-nath-57062621b/**
+<ul dir="auto">
+<li> ✅ There is no secret to success.</li>
+<li> 🖥️ See my portfolio at <a href="https://abhigyan31.netlify.app/" rel="port">https://abhigyan31.netlify.app/</a></li>
+<li> 📧 You can contact me at <a href="mailto:abhigyannath8@gmail.com">abhigyannath8@gmail.com</a></li>
+</ul>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
