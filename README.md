@@ -1,7 +1,7 @@
 ![logo](https://github.com/abhigyan31/abhigyan31/blob/main/banner.JPG)
 <h1 align="center">Hi 👋, I'm Abhigyan Nath</h1>
 <h3 align="center">Final Year BCA Student | Aspiring Web Developer | Cybersecurity Enthusiast | Java Programmer</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/14a82c9065ad50c7e8ef3fdf2463d22b0ef77c23c43784378e709d588130a58c/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966"
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhigyan31&label=Profile%20views&color=0e75b6&style=flat" alt="abhigyan31" /> </p>
