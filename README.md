@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhigyan31&label=Profile%20views&color=0e75b6&style=flat" alt="abhigyan31" /> </p>
 
 <ul dir="auto">
-<li> ✅ There is no secret to success.</li>
+<li> ✅ There is no secret to successs.</li>
 <li> 🖥️ See my portfolio at <a href="https://abhigyan31.netlify.app/" rel="port">https://abhigyan31.netlify.app/</a></li>
 <li> 📧 You can contact me at <a href="mailto:abhigyannath8@gmail.com">abhigyannath8@gmail.com</a></li>
 </ul>
