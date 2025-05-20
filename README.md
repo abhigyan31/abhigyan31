@@ -16,10 +16,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/abhigyan nath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhigyan nath" height="30" width="40" /></a>
-<a href="https://instagram.com/abhigyan2k24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhigyan2k24" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/destro gamer yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="destro gamer yt" height="30" width="40" /></a>
-<a href="https://discord.gg/fQggg8ugv2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fQggg8ugv2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhigyan-nath-57062621b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhigyan nath" height="30" width="40" /></a>
+<a href="https://instagram.com/abhigyan2k25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhigyan2k24" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/destro gamer yt](https://www.youtube.com/channel/UCMjSJJkOaGSX63vJqVBeavQ)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="destro gamer yt" height="30" width="40" /></a>
+<a href="[https://discord.gg/fQggg8ugv2](https://discord.gg/fQggg8ugv2)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fQggg8ugv2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
