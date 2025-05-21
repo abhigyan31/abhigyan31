@@ -21,8 +21,7 @@
 <a href="https://www.youtube.com/channel/UCMjSJJkOaGSX63vJqVBeavQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="destro gamer yt" height="30" width="40" /></a>
 <a href="https://discord.gg/fQggg8ugv2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fQggg8ugv2" height="30" width="40" /></a>
 
-
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/cybercoder31.png)](https://tryhackme.com/p/cybercoder31)
+<img src="https://tryhackme-badges.s3.amazonaws.com/cybercoder31.png" alt="Your Image Badge" />
 
 </p>
 
