@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhigyan31&label=Profile%20views&color=0e75b6&style=flat" alt="abhigyan31" /> </p>
 
 <ul dir="auto">
-<li> ✅ Success isn't magic — it’s effort, consistency, and never giving up.</li>
+<li> ✅ Success is not magic — it’s effort, consistency, and never giving up.</li>
 <li> 🖥️ See my portfolio at <a href="https://abhigyan31.netlify.app/" rel="port">https://abhigyan31.netlify.app/</a></li>
 <li> 📧 You can contact me at <a href="mailto:abhigyannath8@gmail.com">abhigyannath8@gmail.com</a></li>
 </ul>
