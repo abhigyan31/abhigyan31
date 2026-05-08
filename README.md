@@ -68,7 +68,7 @@ goal: Build reliable projects that solve real problems
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,c,mysql,linux,git,figma,androidstudio,photoshop&perline=8" alt="Technology icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,c,mysql,linux,git,vscode,figma&perline=8" alt="Technology icons" />
 </p>
 
 ## What I Am Working On
