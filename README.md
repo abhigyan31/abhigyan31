@@ -81,16 +81,6 @@ Cybersecurity      -> Linux, networking basics, and hands-on security labs
 Mindset            -> Build consistently, learn deeply, improve continuously
 ```
 
-## GitHub Analytics
-
-<p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=abhigyan31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhigyan31&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ## Cybersecurity Practice
 
 <p align="left">
