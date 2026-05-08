@@ -19,13 +19,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=720&lines=Building+full+stack+web+experiences;Exploring+cybersecurity+through+hands-on+practice;Learning+in+public+and+improving+every+day" alt="Typing SVG" />
 </p>
 
-<img align="right" alt="Coding animation" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+<img align="right" alt="Coding animation" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="margin-top: 40px;" />
 
 ## About Me
 
-- MCS student focused on full stack development, programming, and cybersecurity fundamentals.
+- MCA student focused on full stack development, programming, and cybersecurity fundamentals.
 - I enjoy turning ideas into simple, responsive, and practical web applications.
-- Currently improving my skills in JavaScript, Python, PHP, MySQL, Linux, and security labs.
+- Skilled in JavaScript, Python, C, HTML/CSS, SQL, Linux, MERN stack, and cybersecurity labs.
 - Motto: Success is not magic. It is effort, consistency, and never giving up.
 - Portfolio: [abhigyan31.netlify.app](https://abhigyan31.netlify.app/)
 - Email: [abhigyannath8@gmail.com](mailto:abhigyannath8@gmail.com)
