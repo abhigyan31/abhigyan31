@@ -19,7 +19,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Building+clean+and+useful+web+experiences;Learning+cybersecurity+with+hands-on+practice;Consistent+effort+beats+random+motivation" alt="Typing SVG" />
 </p>
 
-<img align="right" alt="Coding animation" width="360" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+<img align="right" alt="Coding animation" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ## About Me
 
