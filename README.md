@@ -35,7 +35,7 @@
 ```yaml
 name: Abhigyan Nath
 role: Aspiring Full Stack Developer
-education: MCS Student
+education: MCA Student
 interests:
   - Web Development
   - Cybersecurity
@@ -44,8 +44,7 @@ interests:
 currently_learning:
   - JavaScript
   - Backend Development
-  - MySQL
-  - Linux Security Basics
+  - Kali Linux
 goal: Build reliable projects that solve real problems
 ```
 
@@ -55,10 +54,10 @@ goal: Build reliable projects that solve real problems
   <a href="https://linkedin.com/in/abhigyan-nath-57062621b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Abhigyan%20Nath-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/abhigyan2k25" target="_blank">
+  <a href="https://instagram.com/abhigyan2k26" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-abhigyan2k25-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.youtube.com/channel/UCMjSJJkOaGSX63vJqVBeavQ" target="_blank">
+  <a href="https://www.youtube.com/@CyberCoder31" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Destro%20Gamer%20YT-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://discord.gg/fQggg8ugv2" target="_blank">
