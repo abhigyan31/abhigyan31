@@ -23,11 +23,11 @@
 
 ## About Me
 
-- MCA student focused on full stack development, programming, and cybersecurity fundamentals.
+- MCA student focused on full stack development, programming, and cybersecurity.
 - I enjoy turning ideas into simple, responsive, and practical web applications.
-- Skilled in JavaScript, Python, C, HTML/CSS, SQL, Linux, MERN stack, and cybersecurity labs.
+- Skilled in JavaScript,Python,C,HTML/CSS,SQL,Linux,MERN stack,and cybersecurity labs.
 - Motto: Success is not magic. It is effort, consistency, and never giving up.
-- Portfolio: [abhigyan31.netlify.app](https://abhigyan31.netlify.app/)
+- Portfolio: [codebygyan.xyz](https://codebygyan.xyz/)
 - Email: [abhigyannath8@gmail.com](mailto:abhigyannath8@gmail.com)
 
 ## Developer Snapshot
