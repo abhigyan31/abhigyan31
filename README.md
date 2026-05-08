@@ -2,8 +2,8 @@
   <img src="https://raw.githubusercontent.com/abhigyan31/abhigyan31/main/banner.JPG" alt="Abhigyan Nath banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Abhigyan Nath 👋</h1>
-<h3 align="center">MCA Student | Aspiring Web Developer | Cybersecurity Enthusiast</h3>
+<h1 align="center">Hi, I'm Abhigyan Nath</h1>
+<h3 align="center">MCS Student | Aspiring Full Stack Developer | Cybersecurity Enthusiast</h3>
 
 <p align="center">
   <a href="https://abhigyan31.netlify.app/">
@@ -16,19 +16,38 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Building+clean+and+useful+web+experiences;Learning+cybersecurity+with+hands-on+practice;Consistent+effort+beats+random+motivation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=720&lines=Building+full+stack+web+experiences;Exploring+cybersecurity+through+hands-on+practice;Learning+in+public+and+improving+every+day" alt="Typing SVG" />
 </p>
 
-<img align="right" alt="Coding animation" width="360" src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)" />
+<img align="right" alt="Coding animation" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ## About Me
 
-- MCA student focused on web development, programming, and cybersecurity fundamentals.
-- I enjoy turning ideas into simple, responsive, and practical web projects.
+- MCS student focused on full stack development, programming, and cybersecurity fundamentals.
+- I enjoy turning ideas into simple, responsive, and practical web applications.
 - Currently improving my skills in JavaScript, Python, PHP, MySQL, Linux, and security labs.
 - Motto: Success is not magic. It is effort, consistency, and never giving up.
 - Portfolio: [abhigyan31.netlify.app](https://abhigyan31.netlify.app/)
 - Email: [abhigyannath8@gmail.com](mailto:abhigyannath8@gmail.com)
+
+## Developer Snapshot
+
+```yaml
+name: Abhigyan Nath
+role: Aspiring Full Stack Developer
+education: MCS Student
+interests:
+  - Web Development
+  - Cybersecurity
+  - Clean UI Design
+  - Problem Solving
+currently_learning:
+  - JavaScript
+  - Backend Development
+  - MySQL
+  - Linux Security Basics
+goal: Build reliable projects that solve real problems
+```
 
 ## Connect With Me
 
@@ -56,7 +75,7 @@
 ## What I Am Working On
 
 ```text
-Web Development    -> Responsive websites, portfolio projects, and clean UI basics
+Web Development    -> Full stack projects, responsive UI, and clean user flows
 Programming        -> Java, Python, C, JavaScript, PHP
 Database           -> MySQL and practical data handling
 Cybersecurity      -> Linux, networking basics, and hands-on security practice
