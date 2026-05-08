@@ -3,10 +3,10 @@
 </p>
 
 <h1 align="center">Hi, I'm Abhigyan Nath</h1>
-<h3 align="center">MCS Student | Aspiring Full Stack Developer | Cybersecurity Enthusiast</h3>
+<h3 align="center">MCA Student | Aspiring Full Stack Developer | Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <a href="https://abhigyan31.netlify.app/">
+  <a href="https://codebygyan.xyz/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0E75B6?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:abhigyannath8@gmail.com">
