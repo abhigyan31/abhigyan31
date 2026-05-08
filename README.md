@@ -74,26 +74,21 @@ goal: Build reliable projects that solve real problems
 ## What I Am Working On
 
 ```text
-Web Development    -> Full stack projects, responsive UI, and clean user flows
-Programming        -> Java, Python, C, JavaScript, PHP
-Database           -> MySQL and practical data handling
-Cybersecurity      -> Linux, networking basics, and hands-on security practice
-Mindset            -> Build daily, learn deeply, improve continuously
+Web Development    -> MERN stack projects, responsive UI, and modern web experiences
+Programming        -> JavaScript, Python, C, and problem-solving fundamentals
+Database           -> MongoDB, MySQL, and practical data handling
+Cybersecurity      -> Linux, networking basics, and hands-on security labs
+Mindset            -> Build consistently, learn deeply, improve continuously
 ```
 
 ## GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhigyan31&show_icons=true&theme=tokyonight&hide_border=true" alt="Abhigyan's GitHub stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyan31&theme=tokyonight&hide_border=true" alt="Abhigyan's GitHub streak" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=abhigyan31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhigyan31&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhigyan31&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub trophies" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhigyan31&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ## Cybersecurity Practice
