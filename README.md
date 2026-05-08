@@ -55,10 +55,10 @@ goal: Build reliable projects that solve real problems
     <img src="https://img.shields.io/badge/LinkedIn-Abhigyan%20Nath-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/abhigyan2k26" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-abhigyan2k25-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-abhigyan2k26-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.youtube.com/@CyberCoder31" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Destro%20Gamer%20YT-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-Cyber%20Coder%2031-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://discord.gg/fQggg8ugv2" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
