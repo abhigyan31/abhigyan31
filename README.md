@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=720&lines=Building+full+stack+web+experiences;Exploring+cybersecurity+through+hands-on+practice;Learning+in+public+and+improving+every+day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=720&lines=Building+full+stack+web+experiences;Exploring+cybersecurity+through+han[...]
 </p>
 
 <img align="right" alt="Coding animation" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="margin-top: 40px;" />
@@ -47,6 +47,12 @@ currently_learning:
   - Kali Linux
 goal: Build reliable projects that solve real problems
 ```
+
+## GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyan31&theme=dark&background=000000" alt="GitHub Streak" />
+</p>
 
 ## Connect With Me
 
