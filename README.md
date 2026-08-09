@@ -27,7 +27,7 @@
 - I enjoy turning ideas into simple, responsive, and practical web applications.
 - Skilled in JavaScript,Python,C,HTML/CSS,SQL,Linux,MERN stack,and cybersecurity labs.
 - Motto: Success is not magic. It is effort, consistency, and never giving up.
-- Portfolio: [codebygyan.xyz](https://codebygyan.xyz/)
+- Portfolio: [heyabhi.dev](https://heyabhi.dev/)
 - Email: [abhigyannath8@gmail.com](mailto:abhigyannath8@gmail.com)
 
 ## Developer Snapshot
