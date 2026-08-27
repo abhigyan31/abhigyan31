@@ -6,7 +6,7 @@
 <h3 align="center">MCA Student | Aspiring Full Stack Developer | Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <a href="https://codebygyan.xyz/">
+  <a href="https://heyabhi.dev/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0E75B6?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:abhigyannath8@gmail.com">
