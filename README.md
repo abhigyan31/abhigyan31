@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhigyan31/abhigyan31/main/banne.JPG" alt="Abhigyan Nath banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/abhigyan31/abhigyan31/main/banner.JPG" alt="Abhigyan Nath banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Abhigyan Nath</h1>
