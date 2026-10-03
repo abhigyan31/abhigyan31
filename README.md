@@ -15,7 +15,7 @@
   <a href="mailto:abhigyannath8@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=abhigyan31&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+ <!--  <img src="https://komarev.com/ghpvc/?username=abhigyan31&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />   -->
 </p>
 
 ## About
